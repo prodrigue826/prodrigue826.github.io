@@ -47,14 +47,19 @@ a:hover{
     transition: 0.1s;
 }
 
-.bg {
-    background-image: url("images/roadbridge.jpeg");
+body{
+	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	color: #003366;
+}
 
-    height: 100%; 
+h1 {
+	font-size: 1.3em;
+	text-align: center;
+}
 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
 
